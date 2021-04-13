@@ -1,6 +1,8 @@
 // կարդալ պատմել what is JavaScript, what is NodeJS, Type cohersion in js, Hoisting in js 
 // անգիրներ HTML5/CSS3, position: , display: , grid layout, flex layout
-// arrow functions, array functions, string functions
+// array functions, string functions, arrow functions
+
+
 // Variable type number, string, boolean, null, undefined, NaN, array, object
 // Loosely typed
 
@@ -65,7 +67,7 @@ switch (a) {
 /*
     while(condition){
         // code
-        // runs untill condition is falsy
+        // runs until condition is falsy
         // checks condition, then runs the code
     }
 
@@ -74,7 +76,7 @@ switch (a) {
     } while(condition);
 
     for (starting point; condition; step) {
-        // runs from starting point, untill condition is met, and changing with step
+        // runs from starting point, until condition is met, and changing with step
     }
 */
 
