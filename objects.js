@@ -48,8 +48,17 @@ console.log(opel);
     properties:
         name: string
         age: number
+        printInfo: prints name and age
 
     Create class Author that inherits from Human
         properties:
             booksWrote: array of strings with the name of the books the author wrote.
+            printBooksWrote: prints the books he wrote
+*/
+
+
+/*
+    Create a branch to save your work
+    after finishing up, commit to your branch and push
+    Open a pull request in github, and add Levon as a reviewer.
 */
